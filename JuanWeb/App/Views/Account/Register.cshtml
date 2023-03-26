@@ -1,0 +1,63 @@
+﻿@model RegisterDto
+<main>
+    <!-- breadcrumb area start -->
+    <div class="breadcrumb-area bg-img" data-bg="assets/img/banner/breadcrumb-banner.jpg">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="breadcrumb-wrap text-center">
+                        <nav aria-label="breadcrumb">
+                            <h1 class="breadcrumb-title">Login-Register</h1>
+                            <ul class="breadcrumb">
+                                <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                                <li class="breadcrumb-item active" aria-current="page">Login-Register</li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- breadcrumb area end -->
+    <!-- login register wrapper start -->
+    <div class="login-register-wrapper section-padding">
+        <div class="container">
+            <div class="member-area-from-wrap">
+                <div class="row">
+                    <!-- Register Content Start -->
+                    <div class="col-lg-12">
+                        <div class="login-reg-form-wrap signup-form">
+                            <h2>Singup Form</h2>
+                            <form asp-action="register" method="post">
+                                <div class="single-input-item">
+                                    <input asp-for="FullName" placeholder="Full Name" required />
+                                    <span class="text-danger" asp-validation-for="FullName"></span>
+
+                                </div>
+                                <div class="single-input-item">
+                                    <input asp-for="UserName" placeholder="Enter your UserName" required />
+                                    <span class="text-danger" asp-validation-for="UserName"></span>
+
+                                </div>
+                                <div class="single-input-item">
+                                    <input asp-for="Email" placeholder="Email or Username" />
+                                    <span class="text-danger" asp-validation-for="Email"></span>
+                                </div>
+                                <div class="single-input-item">
+                                    <input asp-for="Password" placeholder="Enter your Password" />
+                                    <span class="text-danger" asp-validation-for="Password"></span>
+                                </div>
+                                <div class="single-input-item">
+                                    <button type="submit" class="btn">Register</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                    <!-- Register Content End -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- login register wrapper end -->
+</main>
+<!-- main wrapper end -->

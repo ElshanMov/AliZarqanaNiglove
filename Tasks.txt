@@ -1,0 +1,23 @@
+
+Isanin etmeli oldugu tasklar:
+1.Frontu geyindir/Db sistemi hazir+
+2.Product-,Colors+,Size+,Category+ Crud-
+3.Order/Delivery Status
+4.Contact+
+
+
+
+
+Elinin etmeli oldugu tasklar:
+1.Admin Paneli geyindir+
+2.Sliders+/Brands+/Reclams-/Umumi settings iwleri+
+3.Pagenations /Search+
+4.5.Comment/Blog+
+
+
+Elwenin etmeli oldugu tasklar:
+1.fileupload extentionsunu yazmag+
+2.Login/Register/MyProfile-
+3Create User,change role,user blocked in Admin Panel +
+4.Filters on Products' index-,
+Basket/WishList/-

@@ -1,0 +1,55 @@
+﻿@model MemberUpdateDto
+<div class="myaccount-content">
+    <h3>Account Details</h3>
+    <div class="account-details-form">
+        <form asp-action="profile" method="post">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="single-input-item">
+                        <label asp-for="FullName" class="required">FullName</label>
+                        <input type="text" asp-for="FullName" placeholder="Full Name" />
+                        <span class="text-danger" asp-validation-for="FullName"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="single-input-item">
+                <label asp-for="UserName" class="required">UserName</label>
+                <input type="text" asp-for="UserName" placeholder="UserName" />
+                <span class="text-danger" asp-validation-for="UserName"></span>
+            </div>
+            <div class="single-input-item">
+               <label asp-for="Email" class="required">Email</label>
+                <input type="text" asp-for="Email" placeholder="Email" />
+                <span class="text-danger" asp-validation-for="Email"></span>
+            </div>
+            <fieldset>
+                <legend>Password change</legend>
+                <div class="single-input-item">
+                    <label asp-for="CurrentPassword" class="required">Current Password</label>
+                    <input asp-for="CurrentPassword" placeholder="Current Password" />
+                    <span class="text-danger" asp-validation-for="CurrentPassword"></span>
+
+                </div>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="single-input-item">
+                            <label asp-for="Password" class="required">Password</label>
+                            <input asp-for="Password" placeholder="Password" />
+                            <span class="text-danger" asp-validation-for="Password"></span>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                       <div class="single-input-item">
+                            <label asp-for="RepeatPassword" class="required">Repeat Password</label>
+                            <input asp-for="RepeatPassword" placeholder="Repeat Password" />
+                            <span class="text-danger" asp-validation-for="RepeatPassword"></span>
+                        </div>
+                    </div>
+                </div>
+            </fieldset>
+            <div class="single-input-item">
+                <button type="submit" class="btn">Save Changes</button>
+            </div>
+        </form>
+    </div>
+</div>

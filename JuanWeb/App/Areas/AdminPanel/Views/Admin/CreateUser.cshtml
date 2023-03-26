@@ -1,0 +1,44 @@
+﻿@model CreateUser
+@{
+    ViewData["Title"] = "CreateUser";
+    Layout = "~/Areas/AdminPanel/Views/Shared/_Layout.cshtml";
+}
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-lg-8 mt-2">
+            <h1>User Create</h1>
+            <form asp-action="createUser" method="post" enctype="multipart/form-data">
+                <div class="mb-3">
+                    <label asp-for="FullName" class="form-label">FullName</label>
+                    <input asp-for="FullName" class="form-control">
+                    <span class="text-danger" asp-validation-for="FullName"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Roles">Roles</label>
+                    <select class="form-control" multiple asp-for="Roles" asp-items="@new SelectList((List<IdentityRole>)ViewBag.Role,nameof(IdentityRole.Name),nameof(IdentityRole.Name))">
+                    </select>
+                    <span class="text-danger" asp-validation-for="Roles"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Username" class="form-label">UserName</label>
+                    <input asp-for="Username" multiple class="form-control">
+                    <span class="text-danger" asp-validation-for="Username"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Email" class="form-label">Email</label>
+                    <input asp-for="Email" class="form-control">
+                    <span class="text-danger" asp-validation-for="Email"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Password" class="form-label">Password</label>
+                    <input class="form-control" asp-for="Password">
+                    <span class="text-danger d-block" asp-validation-for="Password"></span>
+                </div>
+                <button type="submit" class="btn btn-dark">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>
+@section Scripts{
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

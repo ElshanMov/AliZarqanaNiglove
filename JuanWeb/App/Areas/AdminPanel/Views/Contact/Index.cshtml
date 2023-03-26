@@ -1,0 +1,92 @@
+﻿
+@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Areas/AdminPanel/Views/Shared/_Layout.cshtml";
+	int count = 1;
+
+}
+@model List<Contact>
+<div class="page-wrapper">
+	<!--page-content-wrapper-->
+	<div class="page-content-wrapper">
+		<div class="page-content">
+			<!--breadcrumb-->
+			<!--end breadcrumb-->
+			<div class="container">
+				<div class="card">
+					<div class="card-body">
+						<h4 class="mb-0">Contacts</h4>
+						<hr />
+						<div class="col-lg-12">
+							<form method="get" asp-action="index" class="my-3">
+								<div class="row d-flex align-items-center">
+									<div class="col-xl-3">
+										<select class="form-control" name="id">
+											<option value="-1">
+												Ümumi müraciətlər
+											</option>
+											<option value="0">Cavablanmayanlar</option>
+											<option value="1">Baxilanlar</option>
+											<option value="2">Cavablananlar</option>
+										</select>
+									</div>
+									<button type="submit" class="btn btn-secondary my-2">Axtar</button>
+								</div>
+
+							</form>
+						</div>
+						<div class="form-row mt-3">
+
+							<table class="table">
+								<thead>
+									<tr>
+										<th scope="col">#</th>
+										<th scope="col">Name</th>
+										<th scope="col">Subject</th>
+										<th scope="col">Message</th>
+									</tr>
+								</thead>
+								<tbody>
+									@foreach (var item in Model)
+									{
+										
+										<tr>
+											<th scope="row">@count</th>
+											<td>@item.Name</td>
+											<td>@item.Subject</td>
+											<td>@item.Message</td>
+											@{
+												count++;
+											}
+											<td>
+												@if (item.Status == 0)
+												{
+													<a asp-controller="contact" asp-action="ChangeSituation" asp-route-id="@item.Id" type="button" class="btn btn-primary">Baxilmayib</a>
+												}
+												@if (item.Status == 1)
+												{
+													<a asp-controller="contact" asp-action="ChangeSituation" asp-route-id="@item.Id" type="button" class="btn btn-warning">Goruldu</a>
+												}
+												@if (item.Status == 2)
+												{
+													<a asp-controller="contact" asp-action="ChangeSituation" asp-route-id="@item.Id" type="button" class="btn btn-success disabled">Cavablandi</a>
+												}
+											</td>
+
+										</tr>
+									}
+
+								</tbody>
+							</table>
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--end page-content-wrapper-->
+</div>
+
+
+

@@ -1,0 +1,83 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/AdminPanel/Views/Shared/_Layout.cshtml";
+}
+
+@model List<Product>
+<div class="container" style="overflow-x:scroll">
+    <h1 style="margin-top:1rem">Məhsullar</h1>
+    <a style="margin-bottom:1rem" class="btn btn-warning" asp-action="create">Yeni Mehsul</a>
+    <div class="col-lg-12">
+        <form method="get" asp-action="index" class="my-3">
+            <div class="row d-flex align-items-center">
+                <div class="col-xl-3">
+                    <select class="form-control" name="deleted">
+                        <option value="">
+                            Bütün Məhsullar
+                        </option>
+                        <option value="false">Yeni Məhsullar</option>
+                        <option value="true">Silinən Məhsullar</option>
+
+                    </select>
+                </div>
+                <div class="col-xl-6">
+                    <input type="text" name="search" class="form-control filter" autocomplete="off" value="@ViewBag.search" id="exampleInputEmail1" placeholder="Axtar..." />
+                </div>
+                <button type="submit" class="btn btn-secondary my-2">Axtar</button>
+            </div>
+
+        </form>
+    </div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Kateqoriya Adı</th>
+                <th>Şəkli</th>
+                <th>Adı</th>
+                <th>Qiyməti</th>
+                <th>Sayı</th>
+                <th>Redaktə et</th>
+                <th>Sil</th>
+
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                if (item.IsDeleted == true)
+                {
+                    <tr>
+                        <th scope="row">1</th>
+                        <td style="color:red">@item.Category.Name</td>
+                        <td><img style="width:120px;" src="~/uploads/products/@item.ProductImages.FirstOrDefault(x=>x.IsPoster==true)?.Image" /></td>
+                        <td style="color:red">@item.Name</td>
+                        <td style="color:red">@item.SalePrice</td>
+                        <td style="color:red">@item.InStock</td>
+                        <td><a class="btn btn-success berpa-btn"  asp-action="delete" asp-route-id="@item.Id">Bərpa Et</a></td>
+
+                    </tr>
+                }
+                else
+                {
+                    <tr>
+                        <th scope="row">1</th>
+                        <td>@item.Category.Name</td>
+                        <td><img style="width:120px;" src="~/uploads/products/@item.ProductImages.FirstOrDefault(x=>x.IsPoster==true)?.Image" /></td>
+                        <td>@item.Name</td>
+                        <td>@item.SalePrice</td>
+                        <td>@item.InStock</td>
+                        <td><a class="btn btn-success" asp-action="update" asp-route-id="@item.Id">Redaktə Et</a></td>
+                        <td><a class="btn btn-danger delete-btn" asp-action="delete"  asp-route-id="@item.Id">Sil</a></td>
+
+                    </tr>
+                }
+            }
+
+        </tbody>
+    </table>
+</div>
+
+

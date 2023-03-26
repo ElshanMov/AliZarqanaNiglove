@@ -1,0 +1,24 @@
+﻿@model Brand
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Areas/AdminPanel/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-lg-8 mt-2">
+            <h1>Slider Create</h1>
+            <form asp-action="create" method="post" enctype="multipart/form-data">
+                <div class="mb-3">
+                    <label asp-for="ImageFile" class="form-label">Image</label>
+                    <input class="form-control" asp-for="ImageFile">
+                    <span class="text-danger d-block" asp-validation-for="ImageFile"></span>
+                </div>
+                <button type="submit" class="btn btn-dark">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>
+@section Scripts{
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}

@@ -1,0 +1,557 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\App.bundle.scp.css",
+      "PackagePath": "staticwebassets\\App.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\admin\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\admin\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\admin\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\admin\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\admin\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\admin\\css\\styles.css",
+      "PackagePath": "staticwebassets\\admin\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\admin\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\admin\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\admin\\js\\main.js",
+      "PackagePath": "staticwebassets\\admin\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\admin\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\admin\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\css\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\css\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\css\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\css\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\css\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\css\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\css\\plugins.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\css\\vendor.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor.css"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\fonts\\ionicons28b5.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.eot"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\fonts\\ionicons28b5.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.svg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\fonts\\ionicons28b5.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\fonts\\ionicons28b5.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons28b5.woff"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\about\\avatar.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\about\\services.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\services.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\banner\\banner-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\banner\\banner_left.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\banner_left.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\blog\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\blog\\blog-details-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-details-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\blog\\blog-details-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-details-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\blog\\comment-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\comment-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\blog\\recent-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\recent-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\blog\\recent-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\recent-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\blog\\recent-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\recent-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\blog\\recent-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\recent-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\brand\\br1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand\\br1.png"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\brand\\br2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand\\br2.png"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\brand\\br3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand\\br3.png"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\brand\\br4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand\\br4.png"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\brand\\br5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand\\br5.png"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cart\\cart-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\cart\\cart-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\icon\\cancel.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\cancel.png"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\icon\\en.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\en.png"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\icon\\fr.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\fr.png"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\icon\\policy-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\policy-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\icon\\policy-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\policy-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\icon\\policy-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\policy-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\paypal-card.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\paypal-card.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\product\\pro-small-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\pro-small-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\product\\pro-small-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\pro-small-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\product\\pro-small-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\pro-small-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\product\\pro-small-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\pro-small-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\product\\product-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\product\\product-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\product\\product-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\product\\product-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\product\\product-details-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-details-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\product\\product-details-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-details-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\product\\product-details-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-details-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\product\\product-details-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\product-details-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\slider\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\slider\\slider-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\testimonial\\tm-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\tm-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\testimonial\\tm-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\tm-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\img\\testimonial\\tm-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\tm-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\js\\active.js",
+      "PackagePath": "staticwebassets\\assets\\js\\active.js"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\assets\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\js\\modernizr-2.8.3.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\modernizr-2.8.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\assets\\js\\vendor.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor.js"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\blogs\\WhatsApp-Image-2022-12-19-at-12-42-24-1.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\blogs\\WhatsApp-Image-2022-12-19-at-12-42-24-1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\brands\\14-148130-minion-imagenes-de-100x100-pixeles-1.png",
+      "PackagePath": "staticwebassets\\uploads\\brands\\14-148130-minion-imagenes-de-100x100-pixeles-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\brands\\1656996660243-1.jfif",
+      "PackagePath": "staticwebassets\\uploads\\brands\\1656996660243-1.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\brands\\oka-1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\brands\\oka-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\azman-1.png",
+      "PackagePath": "staticwebassets\\uploads\\products\\azman-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\azman-3.png",
+      "PackagePath": "staticwebassets\\uploads\\products\\azman-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\bab121d0-05e2-47c0-b8e5-e71e0feefe4e-1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\bab121d0-05e2-47c0-b8e5-e71e0feefe4e-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\bab121d0-05e2-47c0-b8e5-e71e0feefe4e-2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\bab121d0-05e2-47c0-b8e5-e71e0feefe4e-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\bab121d0-05e2-47c0-b8e5-e71e0feefe4e-3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\bab121d0-05e2-47c0-b8e5-e71e0feefe4e-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\bsc-az-1.png",
+      "PackagePath": "staticwebassets\\uploads\\products\\bsc-az-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\bsc-az-2.png",
+      "PackagePath": "staticwebassets\\uploads\\products\\bsc-az-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\bsc-az-4.png",
+      "PackagePath": "staticwebassets\\uploads\\products\\bsc-az-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\bsc-az-5.png",
+      "PackagePath": "staticwebassets\\uploads\\products\\bsc-az-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\bsc-az-6.png",
+      "PackagePath": "staticwebassets\\uploads\\products\\bsc-az-6.png"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\bsc-az-7.png",
+      "PackagePath": "staticwebassets\\uploads\\products\\bsc-az-7.png"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\bsc-az-8.png",
+      "PackagePath": "staticwebassets\\uploads\\products\\bsc-az-8.png"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\civil-engineers-looking-at-blueprints-473683922-5c14287446e0fb00014ad74b-1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\civil-engineers-looking-at-blueprints-473683922-5c14287446e0fb00014ad74b-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\civil-engineers-looking-at-blueprints-473683922-5c14287446e0fb00014ad74b-2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\civil-engineers-looking-at-blueprints-473683922-5c14287446e0fb00014ad74b-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\civil-engineers-looking-at-blueprints-473683922-5c14287446e0fb00014ad74b-3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\civil-engineers-looking-at-blueprints-473683922-5c14287446e0fb00014ad74b-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\civil-engineers-looking-at-blueprints-473683922-5c14287446e0fb00014ad74b-4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\civil-engineers-looking-at-blueprints-473683922-5c14287446e0fb00014ad74b-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\civil-engineers-looking-at-blueprints-473683922-5c14287446e0fb00014ad74b-5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\civil-engineers-looking-at-blueprints-473683922-5c14287446e0fb00014ad74b-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\civil-engineers-looking-at-blueprints-473683922-5c14287446e0fb00014ad74b-6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\civil-engineers-looking-at-blueprints-473683922-5c14287446e0fb00014ad74b-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\civil-engineers-looking-at-blueprints-473683922-5c14287446e0fb00014ad74b-7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\civil-engineers-looking-at-blueprints-473683922-5c14287446e0fb00014ad74b-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\civil-engineers-looking-at-blueprints-473683922-5c14287446e0fb00014ad74b-8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\civil-engineers-looking-at-blueprints-473683922-5c14287446e0fb00014ad74b-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\da69b07c-debc-4409-b06d-5edc8183a2f0-1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\da69b07c-debc-4409-b06d-5edc8183a2f0-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\da69b07c-debc-4409-b06d-5edc8183a2f0-2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\da69b07c-debc-4409-b06d-5edc8183a2f0-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\da69b07c-debc-4409-b06d-5edc8183a2f0-3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\da69b07c-debc-4409-b06d-5edc8183a2f0-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\fc34eadd-28b4-4293-b081-4921810fdd0a-1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\fc34eadd-28b4-4293-b081-4921810fdd0a-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\fc34eadd-28b4-4293-b081-4921810fdd0a-2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\fc34eadd-28b4-4293-b081-4921810fdd0a-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\fc34eadd-28b4-4293-b081-4921810fdd0a-3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\fc34eadd-28b4-4293-b081-4921810fdd0a-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\fc34eadd-28b4-4293-b081-4921810fdd0a-4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\fc34eadd-28b4-4293-b081-4921810fdd0a-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\fc34eadd-28b4-4293-b081-4921810fdd0a-5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\fc34eadd-28b4-4293-b081-4921810fdd0a-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\mustafa-1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\mustafa-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\mustafa-3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\mustafa-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\product-comparisons-1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\product-comparisons-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\shutterstock-1451794124-800x412-1.png",
+      "PackagePath": "staticwebassets\\uploads\\products\\shutterstock-1451794124-800x412-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\shutterstock-1451794124-800x412-2.png",
+      "PackagePath": "staticwebassets\\uploads\\products\\shutterstock-1451794124-800x412-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\products\\what-computer-programming-jobs-offer-remote-work-jpg-1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\products\\what-computer-programming-jobs-offer-remote-work-jpg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\sliders\\WhatsApp-Image-2023-03-16-at-01-23-46-1.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\sliders\\WhatsApp-Image-2023-03-16-at-01-23-46-1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\sliders\\faizur-rehman-pHPzdEHN6Os-unsplash-1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\sliders\\faizur-rehman-pHPzdEHN6Os-unsplash-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Elshan\\Desktop\\Juanim\\JuanShoes\\JuanWeb\\App\\wwwroot\\uploads\\sliders\\xps-7ZWVnVSaafY-unsplash-1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\sliders\\xps-7ZWVnVSaafY-unsplash-1.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.App.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.App.props",
+      "PackagePath": "build\\App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.App.props",
+      "PackagePath": "buildMultiTargeting\\App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.App.props",
+      "PackagePath": "buildTransitive\\App.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,68 @@
+﻿@model List<Slider>
+@{
+    Layout = "~/Areas/AdminPanel/Views/Shared/_Layout.cshtml";
+    int count = 0;
+}
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12"><a asp-action="create" style="float:right;margin-top:1rem" class="text-dark" data-bs-toggle="tooltip" data-bs-placement="left" title="Create"><i class="fa-solid fa-circle-plus" style="font-size:30px"></i></a></div>
+        <div class="col-lg-12">
+            <form method="get" asp-action="index">
+                <div class="form-group mb-2">
+                    <label>Select</label>
+                    <select class="form-control" style="text-shadow:none" name="select">
+                        <option value="">
+                            All
+                        </option>
+                        <option value="false">Is not Deleted</option>
+                        <option value="true">Is Deleted</option>
+                    </select>
+                </div>
+                <button type="submit" class="btn btn-dark" data-bs-toggle="tooltip" data-bs-placement="left" title="Save">Save</button>
+                <h1 class="float-right">Sliders</h1>
+            </form>
+        </div>
+        <div class="col-lg-12">
+            <table class="table">
+                <thead class="table-dark">
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Title</th>
+                        <th scope="col">SecondTitle</th>
+                        <th scope="col">Description</th>
+                        <th scope="col">Image</th>
+                        <th scope="col">Action</th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach(var item in Model)
+                    {
+                        count++;
+                        <tr>
+                        <th scope="row">@count</th>
+                        <td>@item.Title</td>
+                        <td>@item.SecondTitle</td>
+                        <td>@item.Description</td>
+                            <td>
+                                <div class="img-box" style="width:80px;height:90px">
+                                    <img style="max-width:100%;max-height:96px" src="~/uploads/sliders/@item.Image" />
+                                </div>
+                            </td>
+                        <td style="width:150px">
+                                <a class="btn btn-warning" asp-action="Edit" asp-route-id="@item.Id"><i class="fa-solid fa-pen text-white"></i></a>
+                                <a class="btn btn-danger btn-delete" asp-action="delete" asp-route-id="@item.Id"><i class="fa-solid fa-trash-can text-white"></i></a>
+
+                        </td>
+                    </tr>
+                    }
+                    
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+@section Scripts{
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+}
+
